@@ -13,7 +13,7 @@ import java.util.Date;
 /**
  * Created by zc on 2018/3/12.
  */
-@WebServlet("/hello")
+@WebServlet("/hello1")
 public class HelloServlet extends HttpServlet{
 
     @Override
